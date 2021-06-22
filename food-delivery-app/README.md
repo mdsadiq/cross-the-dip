@@ -40,3 +40,10 @@ body = {
 - Data Managed outside of component (ie) redux
 
 
+#### Reference
+
+https://www.ubereats.com/store/taylor-gourmet-dupont-circle/220ks56RRl6myBjGEgsZNQ/36332ab8-cec5-4ca7-bf25-9969f8a79434/f34129f2-01d6-415a-bc0d-c688016b4705/01fa9385-52e9-4d0e-af7a-586a892739bb?ps=1
+
+https://www.swiggy.com/bangalore/marathahalli-restaurants
+
+
